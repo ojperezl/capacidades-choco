@@ -1,0 +1,52 @@
+Dim;Sub;Nombre original;Dimensión;Subcategoría;Dimensión capacidades;Código DimCap;Nombre archivo;characterization
+Dim2;_Sub1;Dim2_Sub1;Demografía y población;Población de hombres;Contexto social y demográfico;csd_;Población de hombres Proyecciones Censo 2018;csd_Población de hombres Proyecciones Censo 2018
+Dim2;_Sub2;Dim2_Sub2;Demografía y población;Población de mujeres;Contexto social y demográfico;csd_;Población de mujeres Proyecciones Censo 2018;csd_Población de mujeres Proyecciones Censo 2018
+Dim2;_Sub3;Dim2_Sub3;Demografía y población;Población desagregada por área;Contexto social y demográfico;csd_;Población desagregada por área Proyecciones Censo 2018;csd_Población desagregada por área Proyecciones Censo 2018
+Dim2;_Sub4;Dim2_Sub4;Demografía y población;Población rural y urbana;Contexto social y demográfico;csd_;Población rural y urbana Proyecciones Censo 2018;csd_Población rural y urbana Proyecciones Censo 2018
+Dim2;_Sub5;Dim2_Sub5;Demografía y población;Población étnica;Contexto social y demográfico;csd_;Población étnica Proyecciones Censo 2018;csd_Población étnica Proyecciones Censo 2018
+Dim2;_Sub6;Dim2_Sub6;Demografía y población;Información SISBEN III;Contexto social y demográfico;csd_;Información SISBEN III;csd_Información SISBEN III
+Dim2;_Sub7;Dim2_Sub7;Demografía y población;Comportamiento puntaje SISBEN III;Contexto social y demográfico;csd_;Comportamiento puntaje SISBEN III;csd_Comportamiento puntaje SISBEN III
+Dim2;_Sub8;Dim2_Sub8;Demografía y población;Población total por grupos quinquenales de edad;Contexto social y demográfico;csd_;Población de edad Proyecciones Censo 2018;csd_Población de edad Proyecciones Censo 2018
+Dim2;_Sub9;Dim2_Sub9;Demografía y población;Población menor y mayor de edad;Contexto social y demográfico;csd_;Población menor y mayor Proyecciones Censo 2018;csd_Población menor y mayor Proyecciones Censo 2018
+Dim2;_Sub10;Dim2_Sub10;Demografía y población;Migración;Contexto social y demográfico;csd_;Migración Proyecciones Censo 2018;csd_Migración Proyecciones Censo 2018
+Dim2;_Sub11;Dim2_Sub11;Demografía y población;Información SISBEN IV;Contexto social y demográfico;csd_;Información SISBEN IV;csd_Información SISBEN IV
+Dim3;;Dim3;Vivienda y acceso a servicios públicos;Vivienda y acceso a servicios públicos;Bienestar material y sustento;bms_;Vivienda y acceso a servicios públicos;bms_Vivienda y acceso a servicios públicos
+Dim4;;Dim4;Educación;Acceso a la educación;Desarrollo cognitivo y libertad de pensamiento;dclp_;Acceso a la educación;dclp_Acceso a la educación
+Dim5;;Dim5;Salud;Aseguramiento, Tasas y cobertura;Capacidades básicas de vida y salud;cbvs_;Salud - Aseguramiento, Tasas y cobertura;cbvs_Salud - Aseguramiento, Tasas y cobertura
+Dim6;;Dim6;Convivencia y seguridad ciudadana;Seguridad, Convivencia ciudadana;Integridad y seguridad personal;isp_;Convivencia y Seguridad ciudadana;isp_Convivencia y Seguridad ciudadana
+Dim7;_Sub1;Dim7_Sub1;Finanzas públicas;Operaciones efectivas de caja;Gobernanza y participación civil;gpc_;Finanzas públicas - Operaciones efectivas de caja;gpc_Finanzas públicas - Operaciones efectivas de caja
+Dim7;_Sub2;Dim7_Sub2;Finanzas públicas;Resumen recursos;Gobernanza y participación civil;gpc_;Finanzas públicas - Resumen recursos;gpc_Finanzas públicas - Resumen recursos
+Dim7;_Sub3;Dim7_Sub3;Finanzas públicas;SGR - Asignación presupuestal;Gobernanza y participación civil;gpc_;SGR - Asignación presupuestal;gpc_SGR - Asignación presupuestal
+Dim7;_Sub4;Dim7_Sub4;Finanzas públicas;SGR - Cantidad y monto de proyectos de regalías;Gobernanza y participación civil;gpc_;SGR - Cantidad y monto de proyectos de regalías;gpc_SGR - Cantidad y monto de proyectos de regalías
+Dim7;_Sub5;Dim7_Sub5;Finanzas públicas;SGR - IGPR;Gobernanza y participación civil;gpc_;SGR - IGPR;gpc_SGR - IGPR
+Dim7;_Sub6;Dim7_Sub6;Finanzas públicas;SGR - Saldos;Gobernanza y participación civil;gpc_;SGR - Saldos;gpc_SGR - Saldos
+Dim7;_Sub7;Dim7_Sub7;Finanzas públicas;SGP - Distribución asignaciones SGP por sectores;Gobernanza y participación civil;gpc_;SGP - Distribución asignaciones SGP por sectores;gpc_SGP - Distribución asignaciones SGP por sectores
+Dim7;_Sub8;Dim7_Sub8;Finanzas públicas;SGP - Porcentaje de ejecución presupuestal por sector;Gobernanza y participación civil;gpc_;SGP - Porcentaje de ejecución presupuestal por sector;gpc_SGP - Porcentaje de ejecución presupuestal por sector
+Dim7;_Sub9;Dim7_Sub9;Finanzas públicas;Recursos propios;Gobernanza y participación civil;gpc_;Finanzas públicas - Recursos propios;gpc_Finanzas públicas - Recursos propios
+Dim7;_Sub10;Dim7_Sub10;Finanzas públicas;Desempeño fiscal;Gobernanza y participación civil;gpc_;Desempeño fiscal;gpc_Desempeño fiscal
+Dim7;_Sub11;Dim7_Sub11;Finanzas públicas;SGP - Distribución porcentual de asignaciones SGP por sectores;Gobernanza y participación civil;gpc_;SGP - Distribución porc asignaciones SGP por sectores;gpc_SGP - Distribución porc asignaciones SGP por sectores
+Dim7;_Sub12;Dim7_Sub12;Finanzas públicas;Inversión por sectores;Gobernanza y participación civil;gpc_;Finanzas públicas - Inversión por sectores;gpc_Finanzas públicas - Inversión por sectores
+Dim7;_Sub13;Dim7_Sub13;Finanzas públicas;Nuevo Índice de Desempeño Fiscal;Gobernanza y participación civil;gpc_;Nuevo Índice de Desempeño Fiscal;gpc_Nuevo Índice de Desempeño Fiscal
+Dim7;_Sub14;Dim7_Sub14;Finanzas públicas;SGR - Nuevo IGPR;Gobernanza y participación civil;gpc_;SGR - Nuevo IGPR;gpc_SGR - Nuevo IGPR
+Dim7;_Sub15;Dim7_Sub15;Finanzas públicas;SGR - Proyectos;Gobernanza y participación civil;gpc_;SGR - Proyectos;gpc_SGR - Proyectos
+Dim8;;Dim8;Medición de desempeño municipal;Resumen MDM, Componente de gestión, Componente de resultados;Gobernanza y participación civil;gpc_;Medición de desempeño municipal;gpc_Medición de desempeño municipal
+Dim11;;Dim11;Ambiente;Varias subcategorías;Capacidades básicas de vida y salud;cbvs_;Ambiente varias categorías;cbvs_Ambiente varias categorías
+Dim12;;Dim12;Economía;Varias subcategorías;Bienestar material y sustento;bms_;Economía varias categorías;bms_Economía varias categorías
+Dim13;;Dim13;Presupuesto General de la Nación;PGN departamental;Gobernanza y participación civil;gpc_;Presupuesto General de la Nación departamental;gpc_Presupuesto General de la Nación departamental
+Dim14;;Dim14;Pobreza;Indicadores de pobreza, Incidencia de pobreza;Bienestar material y sustento;bms_;Pobreza Indicadores e Incidencia;bms_Pobreza Indicadores e Incidencia
+Dim16;;Dim16;Mercado laboral;Cotizantes, Ocupación;Bienestar material y sustento;bms_;Mercado laboral;bms_Mercado laboral
+Dim19;;Dim19;Justicia y derecho;Varias subcategorías;Integridad y seguridad personal;isp_;Justicia y derecho;isp_Justicia y derecho
+Dim22;;Dim22;Medición de desempeño departamental;Medición de desempeño departamental;Gobernanza y participación civil;gpc_;Medición de desempeño departamental;gpc_Medición de desempeño departamental
+Dim25;_Sub1;Dim25_Sub1;Censo 2005 y proyecciones DANE;Población de hombres;Contexto social y demográfico;csd_;Población de hombres Censo 2005;csd_Población de hombres Censo 2005
+Dim25;_Sub2;Dim25_Sub2;Censo 2005 y proyecciones DANE;Población de mujeres;Contexto social y demográfico;csd_;Población de mujeres Censo 2005;csd_Población de mujeres Censo 2005
+Dim25;_Sub3;Dim25_Sub3;Censo 2005 y proyecciones DANE;Población desagregada por sexo;Contexto social y demográfico;csd_;Población desagregada por sexo Censo 2005;csd_Población desagregada por sexo Censo 2005
+Dim25;_Sub4;Dim25_Sub4;Censo 2005 y proyecciones DANE;Población desagregada por área;Contexto social y demográfico;csd_;Población desagregada por área Censo 2005;csd_Población desagregada por área Censo 2005
+Dim25;_Sub5;Dim25_Sub5;Censo 2005 y proyecciones DANE;Población étnica;Contexto social y demográfico;csd_;Población étnica Censo 2005;csd_Población étnica Censo 2005
+Dim25;_Sub8;Dim25_Sub8;Censo 2005 y proyecciones DANE;Población total por grupos quinquenales de edad;Contexto social y demográfico;csd_;Población total por grupos de edad Censo 2005;csd_Población total por grupos de edad Censo 2005
+Dim25;_Sub9;Dim25_Sub9;Censo 2005 y proyecciones DANE;Población menor y mayor de edad;Contexto social y demográfico;csd_;Población menor y mayor Censo 2005;csd_Población menor y mayor Censo 2005
+Dim25;_Sub10;Dim25_Sub10;Censo 2005 y proyecciones DANE;Migración;Contexto social y demográfico;csd_;Migración Censo 2005;csd_Migración Censo 2005
+Dim25;_Sub11;Dim25_Sub11;Censo 2005 y proyecciones DANE;Información SISBEN IV;Contexto social y demográfico;csd_;Información SISBEN IV;csd_Información SISBEN IV
+Dim26;;Dim26;Paz y víctimas;Construcción de Paz, Restitución de tierras, Víctimas;Integridad y seguridad personal;isp_;Paz y víctimas;isp_Paz y víctimas
+Dim27;;Dim27;Cultura;Creación, Estímulos, Infraestructura;Desarrollo cognitivo y libertad de pensamiento;dclp_;Cultura;dclp_Cultura
+Dim29;;Dim29;Ciencia, tecnología e innovación;Ciencia, Tecnología e Innovación;Desarrollo cognitivo y libertad de pensamiento;dclp_;Ciencia, Tecnología e Innovación;dclp_Ciencia, Tecnología e Innovación
+;;TerriData27000f;;;Información Chocó;;Batería indicadores Chocó;Batería indicadores Chocó
