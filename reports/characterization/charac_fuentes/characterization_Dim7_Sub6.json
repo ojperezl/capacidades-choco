@@ -1,0 +1,21 @@
+{
+    "Dim7_Sub6": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "SGR - Saldos"
+        ],
+        "Indicador": [
+            "Saldo directas",
+            "Saldo específicas",
+            "Saldo total"
+        ],
+        "Año (min)": 2018,
+        "Año (max)": 2018,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Pesos corrientes"
+        ]
+    }
+}

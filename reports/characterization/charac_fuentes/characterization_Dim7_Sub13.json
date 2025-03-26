@@ -1,0 +1,34 @@
+{
+    "Dim7_Sub13": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "Nuevo Índice de Desempeño Fiscal"
+        ],
+        "Indicador": [
+            "Dependencia de las transferencias",
+            "Relevancia Formación Bruta de Capital fijo",
+            "Endeudamiento de Largo Plazo ",
+            "Ahorro Corriente",
+            "Balance Fiscal Primario",
+            "Componente de resultados fiscales",
+            "Capacidad de Ejecución de Ingresos",
+            "Capacidad de Ejecución de Inversión",
+            "Nivel de Holgura",
+            "Bonificación de Esfuerzo Propio",
+            "Componente de gestión financiera",
+            "Puntaje nuevo Índice de Desempeño Fiscal",
+            "Rango del puntaje del nuevo IDF"
+        ],
+        "Año (min)": 2020,
+        "Año (max)": 2022,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Porcentaje",
+            "Puntos porcentuales",
+            "Puntos",
+            "-"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "Dim3": {
+        "Dimensión": [
+            "Vivienda y acceso a servicios públicos"
+        ],
+        "Subcategoría": [
+            "Vivienda y acceso a servicios públicos"
+        ],
+        "Indicador": [
+            "Cobertura de energía eléctrica rural",
+            "Penetración de banda ancha",
+            "Cobertura de acueducto (Censo)",
+            "Cobertura de acueducto (REC)",
+            "Cobertura de alcantarillado (Censo)",
+            "Cobertura de alcantarillado (REC)",
+            "Déficit cualitativo de vivienda (Censo)",
+            "Déficit cuantitativo de vivienda (Censo)",
+            "Cobertura de acueducto urbana (REC)",
+            "Cobertura de acueducto rural (REC)",
+            "Cobertura de acueducto urbana (Censo)",
+            "Cobertura de acueducto rural (Censo)",
+            "Cobertura de alcantarillado urbana (REC)",
+            "Cobertura de alcantarillado rural (REC)",
+            "Cobertura de alcantarillado urbana (Censo)",
+            "Cobertura de alcantarillado rural (Censo)",
+            "Cobertura de aseo (REC)",
+            "Cobertura de aseo (Censo)",
+            "Cobertura de aseo urbana (REC)",
+            "Cobertura de aseo rural (REC)",
+            "Indígena Acueducto",
+            "Rom Acueducto",
+            "Raizal de San Andrés y Providencia Acueducto",
+            "Palenquero Acueducto",
+            "Negro (a), mulato, afrocolombiano Acueducto",
+            "Cobertura de Energía Eléctrica (Censo)",
+            "Cobertura de Energía Eléctrica Urbana (Censo)",
+            "Cobertura de Energía Eléctrica Rural (Censo)",
+            "Cobertura de Gas Natural (Censo)",
+            "Cobertura Gas Natural Urbano (Censo)",
+            "Cobertura de Gas Natural Rural (Censo)",
+            "Cobertura de Aseo Urbana (Censo)",
+            "Cobertura de Aseo Rural (Censo)",
+            "Cobertura de Internet (Censo)",
+            "Cobertura de Internet Urbana (Censo)",
+            "Cobertura de Internet Rural (Censo)"
+        ],
+        "Año (min)": 2005,
+        "Año (max)": 2022,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Porcentaje (el valor está multiplicado por 100)",
+            "Porcentaje"
+        ]
+    }
+}

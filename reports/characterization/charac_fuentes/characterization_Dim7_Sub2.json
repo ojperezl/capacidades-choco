@@ -1,0 +1,20 @@
+{
+    "Dim7_Sub2": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "Resumen recursos"
+        ],
+        "Indicador": [
+            "Total de recursos asignados per cápita - SGP",
+            "Total de recursos asignados per cápita - SGR (Bienio)"
+        ],
+        "Año (min)": 2015,
+        "Año (max)": 2021,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Pesos corrientes"
+        ]
+    }
+}

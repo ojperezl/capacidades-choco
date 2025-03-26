@@ -1,0 +1,27 @@
+{
+    "Dim7_Sub8": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "SGP - Porcentaje de ejecución presupuestal por sector"
+        ],
+        "Indicador": [
+            "Educación",
+            "Salud",
+            "Agua",
+            "Libre destinación",
+            "Deporte",
+            "Cultura",
+            "Libre inversión",
+            "Alimentación escolar",
+            "Total SGP"
+        ],
+        "Año (min)": 2016,
+        "Año (max)": 2016,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Porcentaje (el valor está multiplicado por 100)"
+        ]
+    }
+}

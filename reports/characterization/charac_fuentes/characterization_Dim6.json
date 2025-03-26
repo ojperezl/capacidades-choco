@@ -1,0 +1,67 @@
+{
+    "Dim6": {
+        "Dimensión": [
+            "Convivencia y seguridad ciudadana"
+        ],
+        "Subcategoría": [
+            "Seguridad",
+            "Convivencia ciudadana"
+        ],
+        "Indicador": [
+            "Tasa de hurto a personas por cada 100.000 habitantes",
+            "Tasa de hurto común por cada 100.000 habitantes",
+            "Tasa de homicidios por cada 100.000 habitantes",
+            "Tasa de homicidios en hombres por cada 100.000 habitantes",
+            "Tasa de homicidios en mujeres por cada 100.000 habitantes",
+            "Tasa de homicidios en áreas urbanas por cada 100.000 habitantes",
+            "Tasa de homicidios en áreas rurales por cada 100.000 habitantes",
+            "Tasa de violencia interpersonal por cada 100.000 habitantes",
+            "Tasa de secuestro por cada 100.000 habitantes",
+            "Tasa de extorsión por cada 100.000 habitantes",
+            "Tasa de lesiones en accidentes de tránsito por cada 100.000 habitantes",
+            "Tasa de homicidios en accidentes de tránsito por cada 100.000 habitantes",
+            "Tasa de homicidio intencional por cada 100.000 habitantes",
+            "Tasa de homicidio intencional en hombres por cada 100.000 habitantes",
+            "Tasa de homicidio intencional en mujeres por cada 100.000 habitantes",
+            "Tasa de homicidio intencional en áreas urbanas por cada 100.000 habitantes",
+            "Tasa de homicidio intencional en áreas rurales por cada 100.000 habitantes",
+            "Fallecidos por siniestros viales",
+            "Tasa de muertes por eventos de transporte en niÃ±os y niÃ±as de 0 a 5 aÃ±os",
+            "Tasa de muertes por eventos de transporte en niÃ±os y niÃ±as de 6 a 11 aÃ±os",
+            "Tasa de muertes por eventos de transporte en adolescentes (12 a 17 aÃ±os)",
+            "Tasa de violencia intrafamiliar por cada 100.000 habitantes",
+            "Primera medida correctiva al Código Nacional de Policía más impuesta en  la entidad territorial",
+            "Segunda medida correctiva al Código Nacional de Policía más impuesta en  la entidad territorial",
+            "Tercera medida correctiva al Código Nacional de Policía más impuesta en  la entidad territorial",
+            "Cuarta medida correctiva al Código Nacional de Policía más impuesta en  la entidad territorial",
+            "Quinta medida correctiva al Código Nacional de Policía más impuesta en  la entidad territorial",
+            "Proporción en que son impuestas otras medidas correctivas al Código Nacional de Policía más impuesta en  la entidad territorial",
+            "Tasa de exÃ¡menes por presunto delito sexual a mujeres por cada 100 mil habitantes",
+            "Tasa de suicidio de hombres por cada 100 mil habitantes",
+            "Tasa de suicidio de mujeres por cada 100 mil habitantes",
+            "Tasa de violencia de pareja a mujeres por cada 100 mil habitantes",
+            "Tasa de exámenes médico legales por presunto delito sexual contra niños y niñas de 0 a 5 años",
+            "Tasa de exámenes médico legales por presunto delito sexual contra niños y nñas de 6 a 11 años",
+            "Tasa de exámenes médico legales por presunto delito sexual contra adolescentes",
+            "Tasa de violencia intrafamiliar en niños y niñas de 0 a 5 años",
+            "Tasa de violencia intrafamiliar en niños y niñas de 6 a 11 años",
+            "Tasa de violencia intrafamiliar en adolescentes (12 a 17 años)",
+            "Tasa de suicidios en niños y niñas de 6 a 11 aÃ±os",
+            "Tasa de suicidios en niños y niñas de adolescentes (12 a 17 años)",
+            "Tasa de violencia contra niños y niñas de primera infancia",
+            "Tasa de violencia contra niños y niñas de 6 a 11 años",
+            "Tasa de violencia contra adolescentes 12 a 17 años",
+            "Índice de Interrelación de Problemáticas"
+        ],
+        "Año (min)": 2014,
+        "Año (max)": 2024,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Tasa por cada 100.000 habitantes",
+            "Numero",
+            "Tasa",
+            "Porcentaje",
+            "Indice"
+        ]
+    }
+}

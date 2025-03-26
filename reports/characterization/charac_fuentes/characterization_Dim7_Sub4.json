@@ -1,0 +1,27 @@
+{
+    "Dim7_Sub4": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "SGR - Cantidad y monto de proyectos de regalías"
+        ],
+        "Indicador": [
+            "Número de proyectos contratados",
+            "Número total de proyectos",
+            "Valor de los proyectos contratados",
+            "Valor del número total de proyectos",
+            "Número de proyectos terminados",
+            "Número de proyectos sin contratar",
+            "Valor de los proyectos terminados",
+            "Valor de los proyectos sin contratar"
+        ],
+        "Año (min)": 2000,
+        "Año (max)": 2018,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Proyectos",
+            "Pesos corrientes"
+        ]
+    }
+}

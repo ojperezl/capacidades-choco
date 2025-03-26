@@ -1,0 +1,21 @@
+{
+    "Dim25_Sub10": {
+        "Dimensión": [
+            "Censo 2005 y proyecciones DANE"
+        ],
+        "Subcategoría": [
+            "Población total"
+        ],
+        "Indicador": [
+            "Población total",
+            "Densidad poblacional"
+        ],
+        "Año (min)": 2010,
+        "Año (max)": 2020,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Personas",
+            "Hab/Km2"
+        ]
+    }
+}

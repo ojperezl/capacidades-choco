@@ -1,0 +1,49 @@
+{
+    "Dim7_Sub1": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "Operaciones efectivas de caja"
+        ],
+        "Indicador": [
+            "Ingresos totales",
+            "Ingresos corrientes",
+            "Ingresos tributarios",
+            "Ingresos no tributarios",
+            "Transferencias de los ingresos corrientes",
+            "Gastos totales",
+            "Gastos corrientes",
+            "Funcionamiento",
+            "Intereses de deuda pública",
+            "Déficit o ahorro corriente",
+            "Ingresos de capital",
+            "Gastos de capital (Inversión)",
+            "Déficit o superávit total",
+            "Financiamiento",
+            "Credito interno y externo",
+            "Recursos del balance y variación de depósitos",
+            "Ingresos totales per cápita",
+            "Ingresos corrientes per cápita",
+            "Ingresos tributarios per cápita",
+            "Ingresos per cápita por impuesto predial",
+            "Ingresos per cápita por impuesto a la Industria y al comercio",
+            "Ingresos no tributarios per cápita",
+            "Gastos totales per cápita",
+            "Gastos corrientes per cápita",
+            "Gastos de funcionamiento per cápita",
+            "Regalías per cápita (Valor efectivamente girado al municipio)",
+            "Transferencias per cápita de los ingresos corrientes",
+            "Transferencias nacionales (SGP, etc.) per cápita ",
+            "Recaudo de ingresos tributarios, no tributarios, tasas y contribuciones territoriales como porcentaje del PIB"
+        ],
+        "Año (min)": 2000,
+        "Año (max)": 2022,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Millones de pesos corrientes",
+            "Pesos corrientes",
+            "Porcentaje"
+        ]
+    }
+}

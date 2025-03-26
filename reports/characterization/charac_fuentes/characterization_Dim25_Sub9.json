@@ -1,0 +1,31 @@
+{
+    "Dim25_Sub9": {
+        "Dimensión": [
+            "Censo 2005 y proyecciones DANE"
+        ],
+        "Subcategoría": [
+            "Población menor y mayor de edad"
+        ],
+        "Indicador": [
+            "Población total menor de edad",
+            "Población total mayor de edad",
+            "Hombres menores de edad",
+            "Hombres mayores de edad",
+            "Mujeres menores de edad",
+            "Mujeres mayores de edad",
+            "Porcentaje de la población total  menor de edad",
+            "Porcentaje de la población total mayor de edad",
+            "Porcentaje de hombres menores de edad",
+            "Porcentaje de hombres mayores de edad",
+            "Porcentaje de mujeres menores de edad",
+            "Porcentaje de mujeres mayores de edad"
+        ],
+        "Año (min)": 2005,
+        "Año (max)": 2020,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Personas",
+            "Porcentaje"
+        ]
+    }
+}

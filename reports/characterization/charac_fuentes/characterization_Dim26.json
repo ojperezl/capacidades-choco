@@ -1,0 +1,43 @@
+{
+    "Dim26": {
+        "Dimensión": [
+            "Paz y víctimas"
+        ],
+        "Subcategoría": [
+            "Restitución de tierras",
+            "Construcción de Paz",
+            "Víctimas"
+        ],
+        "Indicador": [
+            "Número de predios con orden de restitución y/o compensación identificados en sentencia de restitución de tierras y territorios",
+            "Número de personas Personas Beneficiadas en sentencia de restitución de tierras y territorios",
+            "Hectáreas de cultivo de coca",
+            "Eventos de Minas Antipersonal",
+            "Índice de Incidencia del Conflicto Armado - IICA",
+            "Iniciativas y acciones de memoria histórica",
+            "Iniciativas PDET con ruta de implementación activada",
+            "Iniciativas PDET sin ruta de implementación ",
+            "Personas en proceso de reincorporación",
+            "Categoría del Índice de Incidencia del Conflicto Armado - IICA",
+            "Víctimas ubicadas",
+            "Víctimas de Desplazamiento Forzado ubicadas ",
+            "Víctimas por ocurrencia",
+            "Proporción de Víctimas de Desplazamiento Forzado que Superan la Situación de Vulnerabilidad (SSV)",
+            "Proporción de Víctimas de Desplazamiento Forzado que cumplen el derecho a la Educación en condición de Superación de la Situación de Vulnerabilidad (SSV)",
+            "Proporción de Víctimas de Desplazamiento Forzado que cumplen el derecho a la Generación de Ingresos en condición de Superación de la Situación de Vulnerabilidad (SSV)",
+            "Proporción de Víctimas de Desplazamiento Forzado que cumplen el derecho a la Salud en condición de Superación de la Situación de Vulnerabilidad (SSV)",
+            "Proporción de Víctimas de Desplazamiento Forzado que cumplen el derecho a la Vivienda en condición de Superación de la Situación de Vulnerabilidad (SSV)"
+        ],
+        "Año (min)": 2002,
+        "Año (max)": 2023,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Número",
+            "Hectáreas",
+            "-",
+            "Personas",
+            "Hechos",
+            "Porcentaje"
+        ]
+    }
+}

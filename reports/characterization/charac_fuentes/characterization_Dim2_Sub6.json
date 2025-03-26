@@ -1,0 +1,29 @@
+{
+    "Dim2_Sub6": {
+        "Dimensión": [
+            "Demografía y población"
+        ],
+        "Subcategoría": [
+            "Información SISBEN III"
+        ],
+        "Indicador": [
+            "Total registros - Fichas",
+            "Total registros - Hogares",
+            "Total registros - Personas",
+            "Total registros válidos - Fichas",
+            "Total registros válidos - Hogares",
+            "Total registros válidos - Personas"
+        ],
+        "Año (min)": 2010,
+        "Año (max)": 2017,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Registros - Fichas",
+            "Registros - Hogares",
+            "Registros - Personas",
+            "Registros validados - Fichas",
+            "Registros validados - Hogares",
+            "Registros validados - Personas"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Dim2_Sub11": {
+        "Dimensión": [
+            "Demografía y población"
+        ],
+        "Subcategoría": [
+            "Información SISBEN IV"
+        ],
+        "Indicador": [
+            "Total Fichas",
+            "Total Hogares",
+            "Total Personas",
+            "Grupo A",
+            "Grupo B",
+            "Grupo C",
+            "Grupo D"
+        ],
+        "Año (min)": 2022,
+        "Año (max)": 2024,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Registros - Fichas",
+            "Registros - Hogares",
+            "Registros - Personas",
+            "Personas"
+        ]
+    }
+}

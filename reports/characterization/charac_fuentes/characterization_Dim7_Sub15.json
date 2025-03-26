@@ -1,0 +1,22 @@
+{
+    "Dim7_Sub15": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "SGR - Proyectos"
+        ],
+        "Indicador": [
+            "Total proyectos medidos",
+            "Recursos SGR para proyectos",
+            "Valor total de proyectos medidos"
+        ],
+        "Año (min)": 2020,
+        "Año (max)": 2022,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Proyectos",
+            "-"
+        ]
+    }
+}

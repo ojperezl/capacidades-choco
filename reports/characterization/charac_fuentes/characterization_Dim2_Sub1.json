@@ -1,0 +1,53 @@
+{
+    "Dim2_Sub1": {
+        "Dimensión": [
+            "Demografía y población"
+        ],
+        "Subcategoría": [
+            "Población de hombres"
+        ],
+        "Indicador": [
+            "Población de hombres de 00-04",
+            "Población de hombres de 05-09",
+            "Población de hombres de 10-14",
+            "Población de hombres de 15-19",
+            "Población de hombres de 20-24",
+            "Población de hombres de 25-29",
+            "Población de hombres de 30-34",
+            "Población de hombres de 35-39",
+            "Población de hombres de 40-44",
+            "Población de hombres de 45-49",
+            "Población de hombres de 50-54",
+            "Población de hombres de 55-59",
+            "Población de hombres de 60-64",
+            "Población de hombres de 65-69",
+            "Población de hombres de 70-74",
+            "Población de hombres de 75-79",
+            "Población de hombres de 80 o más",
+            "Porcentaje de población de hombres de 00-04",
+            "Porcentaje de población de hombres de 05-09",
+            "Porcentaje de población de hombres de 10-14",
+            "Porcentaje de población de hombres de 15-19",
+            "Porcentaje de población de hombres de 20-24",
+            "Porcentaje de población de hombres de 25-29",
+            "Porcentaje de población de hombres de 30-34",
+            "Porcentaje de población de hombres de 35-39",
+            "Porcentaje de población de hombres de 40-44",
+            "Porcentaje de población de hombres de 45-49",
+            "Porcentaje de población de hombres de 50-54",
+            "Porcentaje de población de hombres de 55-59",
+            "Porcentaje de población de hombres de 60-64",
+            "Porcentaje de población de hombres de 65-69",
+            "Porcentaje de población de hombres de 70-74",
+            "Porcentaje de población de hombres de 75-79",
+            "Porcentaje de población de hombres de 80 o más"
+        ],
+        "Año (min)": 2018,
+        "Año (max)": 2035,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Hombres",
+            "Porcentaje (el valor está multiplicado por 100)"
+        ]
+    }
+}

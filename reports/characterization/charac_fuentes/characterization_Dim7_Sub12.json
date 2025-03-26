@@ -1,0 +1,57 @@
+{
+    "Dim7_Sub12": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "Inversión por sectores"
+        ],
+        "Indicador": [
+            "Inversión - Educación",
+            "Inversión - Salud",
+            "Inversión - Agua potable y saneamiento básico  (sin incluir proyectos de vis)",
+            "Inversión - Deporte y recreación",
+            "Inversión - Cultura",
+            "Inversión - Servicios públicos diferentes a acueducto alcantarillado y aseo (sin incluir proyectos de vivienda de interés social)",
+            "Inversión - Vivienda",
+            "Inversión - Agropecuario",
+            "Inversión - Transporte",
+            "Inversión - Ambiental",
+            "Inversión - Centros de reclusión",
+            "Inversión - Prevención y atención de desastres",
+            "Inversión - Promoción del desarrollo",
+            "Inversión - Atención a grupos vulnerables - promoción social",
+            "Inversión - Equipamiento",
+            "Inversión - Desarrollo comunitario",
+            "Inversión - Fortalecimiento institucional",
+            "Inversión - Justicia y seguridad",
+            "Inversión - Gastos específicos de regalías y compensaciones",
+            "Porcentaje de inversión - Educación",
+            "Porcentaje de inversión - Salud",
+            "Porcentaje de inversión - Agua potable y saneamiento básico  (sin incluir proyectos de vis)",
+            "Porcentaje de inversión - Deporte y recreación",
+            "Porcentaje de inversión - Cultura",
+            "Porcentaje de inversión - Servicios públicos diferentes a acueducto alcantarillado y aseo (sin incluir proyectos de vivienda de interés social)",
+            "Porcentaje de inversión - Vivienda",
+            "Porcentaje de inversión - Agropecuario",
+            "Porcentaje de inversión - Transporte",
+            "Porcentaje de inversión - Ambiental",
+            "Porcentaje de inversión - Centros de reclusión",
+            "Porcentaje de inversión - Prevención y atención de desastres",
+            "Porcentaje de inversión - Promoción del desarrollo",
+            "Porcentaje de inversión - Atención a grupos vulnerables - promoción social",
+            "Porcentaje de inversión - Equipamiento",
+            "Porcentaje de inversión - Desarrollo comunitario",
+            "Porcentaje de inversión - Fortalecimiento institucional",
+            "Porcentaje de inversión - Justicia y seguridad",
+            "Porcentaje de inversión - Gastos específicos de regalías y compensaciones"
+        ],
+        "Año (min)": 2011,
+        "Año (max)": 2020,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Millones de pesos corrientes",
+            "Porcentaje (el valor está multiplicado por 100)"
+        ]
+    }
+}

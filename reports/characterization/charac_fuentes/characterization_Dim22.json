@@ -1,0 +1,21 @@
+{
+    "Dim22": {
+        "Dimensión": [
+            "Medición de desempeño departamental"
+        ],
+        "Subcategoría": [
+            "Resumen MDD"
+        ],
+        "Indicador": [
+            "Componente de gestión",
+            "Componente de resultados",
+            "MDD"
+        ],
+        "Año (min)": 2020,
+        "Año (max)": 2022,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Puntos"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "Dim25_Sub2": {
+        "Dimensión": [
+            "Censo 2005 y proyecciones DANE"
+        ],
+        "Subcategoría": [
+            "Población de mujeres"
+        ],
+        "Indicador": [
+            "Población de mujeres de 00-04",
+            "Población de mujeres de  05-09",
+            "Población de mujeres de  10-14",
+            "Población de mujeres de  15-19",
+            "Población de mujeres de  20-24",
+            "Población de mujeres de  25-29",
+            "Población de mujeres de  30-34",
+            "Población de mujeres de  35-39",
+            "Población de mujeres de  40-44",
+            "Población de mujeres de  45-49",
+            "Población de mujeres de  50-54",
+            "Población de mujeres de  55-59",
+            "Población de mujeres de  60-64",
+            "Población de mujeres de  65-69",
+            "Población de mujeres de  70-74",
+            "Población de mujeres de  75-79",
+            "Población de mujeres de 80 o más",
+            "Porcentaje de población de mujeres de 00-04",
+            "Porcentaje de población de mujeres de  05-09",
+            "Porcentaje de población de mujeres de  10-14",
+            "Porcentaje de población de mujeres de  15-19",
+            "Porcentaje de población de mujeres de  20-24",
+            "Porcentaje de población de mujeres de  25-29",
+            "Porcentaje de población de mujeres de  30-34",
+            "Porcentaje de población de mujeres de  35-39",
+            "Porcentaje de población de mujeres de  40-44",
+            "Porcentaje de población de mujeres de  45-49",
+            "Porcentaje de población de mujeres de  50-54",
+            "Porcentaje de población de mujeres de  55-59",
+            "Porcentaje de población de mujeres de  60-64",
+            "Porcentaje de población de mujeres de  65-69",
+            "Porcentaje de población de mujeres de  70-74",
+            "Porcentaje de población de mujeres de  75-79",
+            "Porcentaje de población de mujeres de 80 o más"
+        ],
+        "Año (min)": 1985,
+        "Año (max)": 2020,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Mujeres",
+            "Porcentaje (el valor está multiplicado por 100)"
+        ]
+    }
+}

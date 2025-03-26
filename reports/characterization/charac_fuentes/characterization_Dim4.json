@@ -1,0 +1,61 @@
+{
+    "Dim4": {
+        "Dimensión": [
+            "Educación"
+        ],
+        "Subcategoría": [
+            "Acceso a la educación",
+            "Permanencia y rezago",
+            "Logro",
+            "Calidad",
+            "Acceso a la educación desagregado por sexo"
+        ],
+        "Indicador": [
+            "Cobertura bruta en transición",
+            "Cobertura bruta en educación primaria",
+            "Cobertura bruta en educación secundaria",
+            "Cobertura bruta en educación media",
+            "Cobertura bruta en educación básica",
+            "Cobertura bruta en educación - Total",
+            "Cobertura neta en transición",
+            "Cobertura neta en educación primaria",
+            "Cobertura neta en educación secundaria",
+            "Cobertura neta en educación media",
+            "Cobertura neta en educación básica",
+            "Cobertura neta en educación - Total",
+            "Cobertura en educación superior",
+            "Tasa de tránsito inmediato a la educación superior",
+            "Tasa de deserción intra-anual del sector oficial en educación básica y media (Desde transición hasta once)",
+            "Tasa de repitencia del sector oficial en educación básica y media (Desde transición hasta once)",
+            "Años de educación personas de 15 y más años",
+            "Tasa de analfabetismo de personas de 15 y más años",
+            "Tasa de Analfabetismo (Censo)",
+            "Tasa de Analfabetismo Urbana (Censo)",
+            "Tasa de Analfabetismo Rural (Censo)",
+            "Porcentaje de asistencia de 5 a 24 años (Censo)",
+            "Porcentaje de asistencia de 5 a 24 años Urbana (Censo)",
+            "Porcentaje de asistencia de 5 a 24 años Rural (Censo)",
+            "Puntaje promedio Pruebas Saber 11 - Matemáticas",
+            "Puntaje promedio Pruebas Saber 11 - Lectura crítica",
+            "Número de niños, niñas y mujeres gestantes con educación inicial en el marco de la atención integral a la primera infancia",
+            "Porcentaje de niños y niñas en servicios de educación inicial en el marco de la atención integral que cuentan con seis o más atenciones",
+            "Porcentaje de niños y niñas de preescolar que reciben requerimiento nutricional a través del PAE",
+            "Porcentaje de niños y niñas cuyas familias participan en procesos de formación en servicios de educacion incial en el marco de la atención integral",
+            "Porcentaje de niños y niñas en primera infancia atendidos en educación inicial en el marco de la atención integral con esquema de vacunación completo para la edad",
+            "Cobertura neta en educación básica  - Hombres",
+            "Cobertura neta en educación básica  - Mujeres",
+            "Cobertura neta en educación total - Hombres",
+            "Cobertura neta en educación total - Mujeres"
+        ],
+        "Año (min)": 2003,
+        "Año (max)": 2022,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Porcentaje (el valor está multiplicado por 100)",
+            "Porcentaje",
+            "Años de educación",
+            "Puntos",
+            "Numero"
+        ]
+    }
+}

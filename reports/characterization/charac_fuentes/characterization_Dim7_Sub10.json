@@ -1,0 +1,25 @@
+{
+    "Dim7_Sub10": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "Desempeño fiscal"
+        ],
+        "Indicador": [
+            "% de ingresos corrientes destinados a funcionamiento",
+            "Respaldo de la deuda",
+            "% de ingresos que corresponden a transferencias",
+            "% de ingresos corrientes que corresponden a recursos propios",
+            "% del gasto total destinado a inversión",
+            "Capacidad de ahorro",
+            "Indicador de desempeño fiscal"
+        ],
+        "Año (min)": 2000,
+        "Año (max)": 2020,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Puntos"
+        ]
+    }
+}

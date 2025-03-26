@@ -1,0 +1,23 @@
+{
+    "Dim7_Sub5": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "SGR - IGPR"
+        ],
+        "Indicador": [
+            "Índice de gestión de proyectos de regalías (IGPR)",
+            "Componente - Transparencia",
+            "Componente - Sin medidas del SMSCE",
+            "Componente - Eficiencia ",
+            "Componente - Eficacia "
+        ],
+        "Año (min)": 2016,
+        "Año (max)": 2019,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Puntos"
+        ]
+    }
+}

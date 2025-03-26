@@ -1,0 +1,21 @@
+{
+    "Dim13": {
+        "Dimensión": [
+            "Presupuesto general de la nación"
+        ],
+        "Subcategoría": [
+            "PGN departamental"
+        ],
+        "Indicador": [
+            "Porcentaje del PGN regionalizado asignado al departamento",
+            "PGN per cápita"
+        ],
+        "Año (min)": 2010,
+        "Año (max)": 2016,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Porcentaje (el valor está multiplicado por 100)",
+            "Pesos corrientes"
+        ]
+    }
+}

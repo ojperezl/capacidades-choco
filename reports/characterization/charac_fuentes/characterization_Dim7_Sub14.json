@@ -1,0 +1,20 @@
+{
+    "Dim7_Sub14": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "SGR - Nuevo IGPR"
+        ],
+        "Indicador": [
+            "Componente - Cobertura",
+            "Puntaje nuevo Indice de gestión de proyectos de regalías - IGPR"
+        ],
+        "Año (min)": 2020,
+        "Año (max)": 2022,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "-"
+        ]
+    }
+}

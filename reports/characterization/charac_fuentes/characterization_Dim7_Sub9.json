@@ -1,0 +1,21 @@
+{
+    "Dim7_Sub9": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "Recursos propios"
+        ],
+        "Indicador": [
+            "Brecha municipal en ingresos corrientes que corresponden a recursos propios, segÃºn grupo de capacidades",
+            "Porcentaje de inversión con recursos propios"
+        ],
+        "Año (min)": 2012,
+        "Año (max)": 2020,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Brecha",
+            "Porcentaje (el valor está multiplicado por 100)"
+        ]
+    }
+}

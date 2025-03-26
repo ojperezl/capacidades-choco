@@ -1,0 +1,23 @@
+{
+    "Dim25_Sub4": {
+        "Dimensión": [
+            "Censo 2005 y proyecciones DANE"
+        ],
+        "Subcategoría": [
+            "Población desagregada por área"
+        ],
+        "Indicador": [
+            "Población urbana",
+            "Población rural",
+            "Porcentaje población urbana",
+            "Porcentaje población rural"
+        ],
+        "Año (min)": 1985,
+        "Año (max)": 2020,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Personas",
+            "Porcentaje (el valor está multiplicado por 100)"
+        ]
+    }
+}

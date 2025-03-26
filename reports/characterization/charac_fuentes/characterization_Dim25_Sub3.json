@@ -1,0 +1,24 @@
+{
+    "Dim25_Sub3": {
+        "Dimensión": [
+            "Censo 2005 y proyecciones DANE"
+        ],
+        "Subcategoría": [
+            "Población desagregada por sexo"
+        ],
+        "Indicador": [
+            "Población total de hombres",
+            "Población total de mujeres",
+            "Porcentaje población de hombres",
+            "Porcentaje población de mujeres"
+        ],
+        "Año (min)": 1985,
+        "Año (max)": 2020,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Hombres",
+            "Mujeres",
+            "Porcentaje (el valor está multiplicado por 100)"
+        ]
+    }
+}

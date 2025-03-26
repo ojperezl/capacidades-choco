@@ -1,0 +1,23 @@
+{
+    "Dim2_Sub4": {
+        "Dimensión": [
+            "Demografía y población"
+        ],
+        "Subcategoría": [
+            "Población desagregada por área"
+        ],
+        "Indicador": [
+            "Población urbana",
+            "Población rural",
+            "Porcentaje población urbana",
+            "Porcentaje población rural"
+        ],
+        "Año (min)": 2018,
+        "Año (max)": 2035,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Personas",
+            "Porcentaje (el valor está multiplicado por 100)"
+        ]
+    }
+}

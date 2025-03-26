@@ -1,0 +1,31 @@
+{
+    "Dim2_Sub9": {
+        "Dimensión": [
+            "Demografía y población"
+        ],
+        "Subcategoría": [
+            "Población menor y mayor de edad"
+        ],
+        "Indicador": [
+            "Porcentaje de población menores de 15 años",
+            "Población entre 15 y 59 años",
+            "Población de 60 años y más",
+            "Porcentaje de población entre 15 y 59 años",
+            "Porcentaje de población de 60 años y más",
+            "Población de jóvenes entre 14 y 28 años",
+            "Población de hombres jóvenes entre 14 y 28 años",
+            "Población de mujeres jóvenes entre 14 y 28 años",
+            "Porcentaje de población de jóvenes entre 14 y 28 años",
+            "Porcentaje de población de hombres jóvenes entre 14 y 28 años",
+            "Porcentaje de población de mujeres jóvenes entre 14 y 28 años",
+            "Población menor de 15 años "
+        ],
+        "Año (min)": 2018,
+        "Año (max)": 2035,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Porcentaje",
+            "Personas"
+        ]
+    }
+}

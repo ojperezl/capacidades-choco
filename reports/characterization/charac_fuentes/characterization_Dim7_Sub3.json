@@ -1,0 +1,22 @@
+{
+    "Dim7_Sub3": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "SGR - Asignación presupuestal"
+        ],
+        "Indicador": [
+            "Total de asignaciones SGR 2012",
+            "Total de asignaciones SGR 2013-2014",
+            "Total de asignaciones SGR 2015-2016",
+            "Total de asignaciones SGR 2017-2018"
+        ],
+        "Año (min)": 2012,
+        "Año (max)": 2018,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Pesos corrientes"
+        ]
+    }
+}

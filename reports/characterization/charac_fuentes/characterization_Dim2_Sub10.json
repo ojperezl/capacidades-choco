@@ -1,0 +1,73 @@
+{
+    "Dim2_Sub10": {
+        "Dimensión": [
+            "Demografía y población"
+        ],
+        "Subcategoría": [
+            "Migración"
+        ],
+        "Indicador": [
+            "Proyección de número de venezolanos",
+            "Porcentaje de población migrante interna censada con respecto a la población total de cada entidad territorial",
+            "Porcentaje de poblacion migrante proveniente de Venezuela, del total de población proyectada para la entidad territorial",
+            "Hombres entre 0 y 7 años con permiso especial de permanencia (PEP)",
+            "Hombres entre 8 y 17 años con permiso especial de permanencia (PEP)",
+            "Hombres entre 18 y 29 años con permiso especial de permanencia (PEP)",
+            "Hombres entre 30 y 39 años con permiso especial de permanencia (PEP)",
+            "Hombres entre 40 y 49 años con permiso especial de permanencia (PEP)",
+            "Hombres entre 50 y 59 años con permiso especial de permanencia (PEP)",
+            "Hombres entre 60 y 69 años con permiso especial de permanencia (PEP)",
+            "Hombres de 70 o más años con permiso especial de permanencia (PEP)",
+            "Total de hombres con permiso especial de permanencia (PEP)",
+            "Mujeres entre 0 y 7 años con permiso especial de permanencia (PEP)",
+            "Mujeres entre 8 y 17 años con permiso especial de permanencia (PEP)",
+            "Mujeres entre 18 y 29 años con permiso especial de permanencia (PEP)",
+            "Mujeres entre 30 y 39 años con permiso especial de permanencia (PEP)",
+            "Mujeres entre 40 y 49 años con permiso especial de permanencia (PEP)",
+            "Mujeres entre 50 y 59 años con permiso especial de permanencia (PEP)",
+            "Mujeres entre 60 y 69 años con permiso especial de permanencia (PEP)",
+            "Mujeres de 70 o más años con permiso especial de permanencia (PEP)",
+            "Total de mujeres con permiso especial de permanencia (PEP)",
+            "Porcentaje de hombres entre 0 y 7 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de hombres entre 8 y 17 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de hombres entre 18 y 29 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de hombres entre 30 y 39 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de hombres entre 40 y 49 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de hombres entre 50 y 59 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de hombres entre 60 y 69 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de hombres de 70 o más años con permiso especial de permanencia (PEP)",
+            "Porcentaje de mujeres entre 0 y 7 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de mujeres entre 8 y 17 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de mujeres entre 18 y 29 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de mujeres entre 30 y 39 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de mujeres entre 40 y 49 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de mujeres entre 50 y 59 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de mujeres entre 60 y 69 años con permiso especial de permanencia (PEP)",
+            "Porcentaje de mujeres de 70 o más años con permiso especial de permanencia (PEP)",
+            "Población migrante proveniente de Venezuela que ha accedido a los permisos especiales de permanencia (PEP)",
+            "Porcentaje de población regular que ha accedido a los permisos especiales de permanencia (PEP)",
+            "Índice Multidimensional de Integración - IMI",
+            "D1. Cobertura de necesidades básicas (IMI)",
+            "D2. Integración económica (IMI)",
+            "D3. Integración social (IMI)",
+            "D4. Regularización e institucionalidad (IMI)",
+            "Proporción de la población migrante clasificada en el Sisbén frente a la población migrante en el municipio",
+            "Beneficiarios de programa de Alimentación Escolar para migrantes",
+            "Personas migrantes que cotizan en PILA",
+            "Proporción de NNA matriculados en IE ajustado por la proporción de población migrante sobre el total de población escolar",
+            "Nivel de Riesgo General para Población Migrante y Refugiada",
+            "Nivel de Riesgo para Niñas y Mujeres Migrantes y Refugiadas"
+        ],
+        "Año (min)": 2018,
+        "Año (max)": 2022,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Personas",
+            "Porcentaje",
+            "Hombres",
+            "Mujeres",
+            "Puntos",
+            "Número"
+        ]
+    }
+}

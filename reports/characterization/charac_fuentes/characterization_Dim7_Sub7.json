@@ -1,0 +1,28 @@
+{
+    "Dim7_Sub7": {
+        "Dimensión": [
+            "Finanzas públicas"
+        ],
+        "Subcategoría": [
+            "SGP - Distribución asignaciones SGP por sectores"
+        ],
+        "Indicador": [
+            "Educación",
+            "Salud",
+            "Agua potable",
+            "Propósito general",
+            "Alimentación escolar",
+            "Ribereños",
+            "Resguardos indígenas",
+            "Primera infancia",
+            "Total SGP",
+            "Fonpet"
+        ],
+        "Año (min)": 2014,
+        "Año (max)": 2023,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Pesos corrientes"
+        ]
+    }
+}

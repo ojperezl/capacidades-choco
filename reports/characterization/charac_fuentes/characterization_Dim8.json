@@ -1,0 +1,55 @@
+{
+    "Dim8": {
+        "Dimensión": [
+            "Medición de desempeño municipal"
+        ],
+        "Subcategoría": [
+            "Resumen MDM",
+            "Componente de gestión",
+            "Componente de resultados"
+        ],
+        "Indicador": [
+            "Grupo de capacidades iniciales",
+            "Componente de gestión",
+            "Componente de gestión - Posición",
+            "Promedio de gestión por grupo de DI",
+            "Componente de resultados",
+            "Componente de resultados - Posición",
+            "Promedio de resultados por grupo de DI",
+            "MDM",
+            "MDM - Posición",
+            "Promedio MDM por grupo de DI",
+            "Posición nacional en gestión",
+            "Posición nacional en resultados",
+            "Posición nacional del indicador final MDM",
+            "Promedio del indicador de MDM por departamento y nación",
+            "Promedio del componente de gestión por departamento y nación",
+            "Promedio del componente de resultados por departamento y nación",
+            "Movilización de recursos",
+            "Ejecución de recursos",
+            "Recaudo con instrumentos de ordenamiento territorial",
+            "Gobierno abierto y transparencia",
+            "Promedio de movilización de recursos por grupo de DI",
+            "Promedio de ejecución de recursos por grupo de DI",
+            "Promedio de recaudo con instrumentos de ordenamiento territorial por grupo de DI",
+            "Promedio de gobierno abierto y transparencia por grupo de DI",
+            "Educación",
+            "Salud",
+            "Acceso a servicios públicos",
+            "Seguridad",
+            "Promedio de educación por grupo de DI",
+            "Promedio de salud por grupo de DI",
+            "Promedio de servicios públicos por grupo de DI",
+            "Promedio de seguridad por grupo de DI"
+        ],
+        "Año (min)": 2016,
+        "Año (max)": 2022,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Texto",
+            "Puntos",
+            "Número",
+            "Puntos promedio"
+        ]
+    }
+}

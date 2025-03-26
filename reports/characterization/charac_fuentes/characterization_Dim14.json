@@ -1,0 +1,54 @@
+{
+    "Dim14": {
+        "Dimensión": [
+            "Pobreza"
+        ],
+        "Subcategoría": [
+            "Indicadores de pobreza",
+            "Incidencia de pobreza monetaria extrema según sexo",
+            "Incidencia de pobreza monetaria según sexo",
+            "Incidencia de pobreza monetaria extrema según sexo del jefe del hogar",
+            "Incidencia de pobreza monetaria según sexo del jefe del hogar",
+            "Indicadores de Pobreza - Actualización Metodológica",
+            "Incidencia de pobreza monetaria extrema según sexo - Actualización metodológica",
+            "Incidencia de pobreza monetaria según sexo - Actualización metodológica"
+        ],
+        "Indicador": [
+            "Incidencia de la pobreza monetaria",
+            "Incidencia de la pobreza monetaria extrema",
+            "Coeficiente de Gini",
+            "Índice de pobreza multidimensional - IPM",
+            "IPM - Cabecera",
+            "IPM - Rural",
+            "Índice de Necesidades Básicas Insatisfechas - NBI - en el área urbana",
+            "Índice de Necesidades Básicas Insatisfechas - NBI - en el área rural",
+            "Población en condición de miseria",
+            "Población en condición de miseria en el área urbana",
+            "Población en condición de miseria en el área rural",
+            "Porcentaje de niñas, niños y adolescentes en pobreza (proxy)",
+            "Incidencia de pobreza monetaria extrema en hombres",
+            "Incidencia de pobreza monetaria extrema en mujeres",
+            "Incidencia de pobreza monetaria en hombres",
+            "Incidencia de pobreza monetaria en mujeres",
+            "Incidencia de pobreza monetaria extrema en hogares con jefatura masculina",
+            "Incidencia de pobreza monetaria extrema en hogares con jefatura femenina",
+            "Incidencia de pobreza monetaria  en hogares con jefatura masculina",
+            "Incidencia de pobreza monetaria  en hogares con jefatura femenina",
+            "Incidencia de la pobreza monetaria - Actualización metodológica",
+            "Incidencia de la pobreza monetaria extrema - Actualización metodológica",
+            "Incidencia de pobreza monetaria extrema en hombres - Actualización metodológica",
+            "Incidencia de pobreza monetaria extrema en mujeres - Actualización metodológica",
+            "Incidencia de pobreza monetaria en hombres - Actualización metodológica",
+            "Incidencia de pobreza monetaria en mujeres - Actualización metodológica"
+        ],
+        "Año (min)": 2002,
+        "Año (max)": 2023,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Porcentaje (el valor está multiplicado por 100)",
+            "Puntos",
+            "Puntos porcentuales",
+            "Porcentaje"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Dim27": {
+        "Dimensión": [
+            "Cultura"
+        ],
+        "Subcategoría": [
+            "Infraestructura y servicios culturales",
+            "Creación y funcionamiento de espacios de participación legalmente constituidos",
+            "Estímulos, incentivos y proyectos culturales apoyados a través de convocatorias públicas"
+        ],
+        "Indicador": [
+            "Infraestructuras de uso cultural",
+            "Bibliotecas Itinerantes implementadas",
+            "Dotaciones entregadas para procesos artÃ­sticos y culturales",
+            "Existencia del consejo de cultura mediante acto administrativo",
+            "Operatividad del consejo de cultura",
+            "NÃºmero de integrantes del consejo segÃºn acto administrativo",
+            "NÂ° de EstÃ­mulos, incentivos y proyectos culturales apoyados a travÃ©s de convocatorias pÃºblicas"
+        ],
+        "Año (min)": 2022,
+        "Año (max)": 2022,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "NÃºmero",
+            "Nivel"
+        ]
+    }
+}

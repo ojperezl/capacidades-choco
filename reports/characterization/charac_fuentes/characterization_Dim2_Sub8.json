@@ -1,0 +1,53 @@
+{
+    "Dim2_Sub8": {
+        "Dimensión": [
+            "Demografía y población"
+        ],
+        "Subcategoría": [
+            "Población total por grupos quinquenales de edad"
+        ],
+        "Indicador": [
+            "Proyección de población entre los 0 y 4 años",
+            "Proyección de población entre los 5 y 9 años",
+            "Proyección de población entre los 10 y 14 años",
+            "Proyección de población entre los 15 y 19 años",
+            "Proyección de población entre los 20 y 24 años",
+            "Proyección de población entre los 25 y 29 años",
+            "Proyección de población entre los 30 y 34 años",
+            "Proyección de población entre los 35 y 39 años",
+            "Proyección de población entre los 40 y 44 años",
+            "Proyección de población entre los 45 y 49 años",
+            "Proyección de población entre los 50 y 54 años",
+            "Proyección de población entre los 55 y 59 años",
+            "Proyección de población entre los 60 y 64 años",
+            "Proyección de población entre los 65 y 69 años",
+            "Proyección de población entre los 70 y 74 años",
+            "Proyección de población entre los 75 y 79 años",
+            "Proyección de población de 80 o más años",
+            "Porcentaje de población entre los 0 y 4 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 5 y 9 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 10 y 14 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 15 y 19 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 20 y 24 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 25 y 29 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 30 y 34 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 35 y 39 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 40 y 44 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 45 y 49 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 50 y 54 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 55 y 59 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 60 y 64 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 65 y 69 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 70 y 74 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población entre los 75 y 79 años, del total de población proyectada para la entidad territorial",
+            "Porcentaje de población de 80 o más años, del total de población proyectada para la entidad territorial"
+        ],
+        "Año (min)": 2020,
+        "Año (max)": 2035,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Personas",
+            "Porcentaje"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Dim2_Sub5": {
+        "Dimensión": [
+            "Demografía y población"
+        ],
+        "Subcategoría": [
+            "Población étnica"
+        ],
+        "Indicador": [
+            "Población indígena",
+            "Población negra, mulata o afrocolombiana",
+            "Población raizal",
+            "Población rom",
+            "Población palenquero",
+            "Población étnica total",
+            "Porcentaje de población indígena",
+            "Porcentaje de población negra, mulata o afrocolombiana",
+            "Porcentaje de población raizal",
+            "Porcentaje de población rom",
+            "Porcentaje de población palenquero",
+            "Porcentaje de población étnica total",
+            "Población de origen étnico en resguardos indígenas",
+            "Porcentaje de población de origen étnico en resguardos indígenas",
+            "Número de resguardos indígenas en el territorio"
+        ],
+        "Año (min)": 2017,
+        "Año (max)": 2035,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Personas",
+            "Porcentaje (el valor está multiplicado por 100)",
+            "Resguardos"
+        ]
+    }
+}

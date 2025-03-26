@@ -1,0 +1,30 @@
+{
+    "Dim2_Sub7": {
+        "Dimensión": [
+            "Demografía y población"
+        ],
+        "Subcategoría": [
+            "Comportamiento puntaje SISBEN III"
+        ],
+        "Indicador": [
+            "Puntaje SISBEN: Mínimo - Cabecera",
+            "Puntaje SISBEN: Máximo - Cabecera",
+            "Puntaje SISBEN: Promedio - Cabecera",
+            "Puntaje SISBEN: Mínimo - Centro poblado",
+            "Puntaje SISBEN: Máximo - Centro poblado",
+            "Puntaje SISBEN: Promedio - Centro poblado",
+            "Puntaje SISBEN: Mínimo - Rural disperso",
+            "Puntaje SISBEN: Máximo - Rural disperso",
+            "Puntaje SISBEN: Promedio - Rural disperso",
+            "Puntaje SISBEN: Mínimo - Total",
+            "Puntaje SISBEN: Máximo - Total",
+            "Puntaje SISBEN: Promedio - Total"
+        ],
+        "Año (min)": 2017,
+        "Año (max)": 2017,
+        "Fuentes": [],
+        "Unidad de Medida": [
+            "Puntos"
+        ]
+    }
+}
