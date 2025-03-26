@@ -1,0 +1,12 @@
+**/.DS_Store
+**/Anthropic_key.txt
+**/OpenAI_key.txt
+**/src/reports/charact_Anthropic.py
+**/src/reports/charact_OpenAI.py
+**/src/reports/consolidar_word.py
+**/reports/characterization/partials/
+**/reports/charac_fuentes/
+**/data/raw/
+**/data/processed/
+**/data/interim/
+

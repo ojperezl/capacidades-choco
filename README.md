@@ -1,0 +1,3 @@
+A partir del marco teórico, se han definido conceptos clave como capacidades, funcionamientos y libertades, que guían la caracterización sociodemográfica y económica. Sin embargo, medir estos conceptos de forma directa y precisa presenta desafíos. El enfoque de capacidades se centra en las libertades reales de los individuos para alcanzar lo que valoran, destacando la agencia individual y las estructuras sociales que influyen en las capacidades.
+A partir del marco teórico, se han definido conceptos clave como capacidades, funcionamientos y libertades, que guían la caracterización sociodemográfica y económica. 
+
