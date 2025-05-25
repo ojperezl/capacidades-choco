@@ -9,4 +9,5 @@
 **/data/raw/
 **/data/processed/
 **/data/interim/
-
+**/graphs/.ipynb_checkpoints/
+**/src/analysis/.ipynb_checkpoints/
